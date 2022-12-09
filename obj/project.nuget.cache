@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUyWjeWvls8eKu2ifc1ftgZV/BxMZ2AWgA6RAEBpqX3E5ty6h+WhOw4UjoP8Ye9C0FySp+S4x2DuEbk895nlTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julie\\Desktop\\Programmation Distribué\\TravailSynthèse\\Travail synthèse étudiant\\Autobus\\Autobus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julie\\.nuget\\packages\\mqttnet\\4.1.3.436\\mqttnet.4.1.3.436.nupkg.sha512"
+  ],
+  "logs": []
+}

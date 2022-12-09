@@ -1,0 +1,32 @@
+E:\code\3N5\Travail synthèse\Autobus\bin\Debug\net6.0\Autobus.exe
+E:\code\3N5\Travail synthèse\Autobus\bin\Debug\net6.0\Autobus.deps.json
+E:\code\3N5\Travail synthèse\Autobus\bin\Debug\net6.0\Autobus.runtimeconfig.json
+E:\code\3N5\Travail synthèse\Autobus\bin\Debug\net6.0\Autobus.dll
+E:\code\3N5\Travail synthèse\Autobus\bin\Debug\net6.0\Autobus.pdb
+E:\code\3N5\Travail synthèse\Autobus\obj\Debug\net6.0\Autobus.csproj.AssemblyReference.cache
+E:\code\3N5\Travail synthèse\Autobus\obj\Debug\net6.0\Autobus.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\3N5\Travail synthèse\Autobus\obj\Debug\net6.0\Autobus.AssemblyInfoInputs.cache
+E:\code\3N5\Travail synthèse\Autobus\obj\Debug\net6.0\Autobus.AssemblyInfo.cs
+E:\code\3N5\Travail synthèse\Autobus\obj\Debug\net6.0\Autobus.csproj.CoreCompileInputs.cache
+E:\code\3N5\Travail synthèse\Autobus\obj\Debug\net6.0\Autobus.dll
+E:\code\3N5\Travail synthèse\Autobus\obj\Debug\net6.0\refint\Autobus.dll
+E:\code\3N5\Travail synthèse\Autobus\obj\Debug\net6.0\Autobus.pdb
+E:\code\3N5\Travail synthèse\Autobus\obj\Debug\net6.0\Autobus.genruntimeconfig.cache
+E:\code\3N5\Travail synthèse\Autobus\obj\Debug\net6.0\ref\Autobus.dll
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\bin\Debug\net6.0\Autobus.exe
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\bin\Debug\net6.0\Autobus.deps.json
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\bin\Debug\net6.0\Autobus.runtimeconfig.json
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\bin\Debug\net6.0\Autobus.dll
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\bin\Debug\net6.0\Autobus.pdb
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\bin\Debug\net6.0\MQTTnet.dll
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\obj\Debug\net6.0\Autobus.csproj.AssemblyReference.cache
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\obj\Debug\net6.0\Autobus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\obj\Debug\net6.0\Autobus.AssemblyInfoInputs.cache
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\obj\Debug\net6.0\Autobus.AssemblyInfo.cs
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\obj\Debug\net6.0\Autobus.csproj.CoreCompileInputs.cache
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\obj\Debug\net6.0\Autobus.csproj.CopyComplete
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\obj\Debug\net6.0\Autobus.dll
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\obj\Debug\net6.0\refint\Autobus.dll
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\obj\Debug\net6.0\Autobus.pdb
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\obj\Debug\net6.0\Autobus.genruntimeconfig.cache
+C:\Users\julie\Desktop\Programmation Distribué\TravailSynthèse\Travail synthèse étudiant\Autobus\obj\Debug\net6.0\ref\Autobus.dll
